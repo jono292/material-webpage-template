@@ -1,0 +1,22 @@
+/*
+
+(c) 2018 Jonathan Lu
+This source code is available under the Apache 2.0 License (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+*/
+
+
+.footer {
+    background-color: black;
+    padding-left: 20px;
+    color: #fff;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+
+  
+}
