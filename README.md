@@ -7,6 +7,6 @@ A closed-source website template I designed for personal use, but I have decided
 Many features are complete, but the code isn't ready for an open source release. A few of the features that will
 be coming soon are:
 
--Buttons
--Input Boxes
--Animations
+Buttons
+Input Boxes
+Animations
