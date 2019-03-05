@@ -10,8 +10,8 @@ www.codepen.io
 */
 
 
-
-button {
+/* BLUE BUTTON */
+.button-primary {
 
     background: #1a73e8;
     border: 1px #1a73e8 solid;
@@ -25,10 +25,49 @@ button {
     color: #fff;
 }
 
-button:hover {
+.button-primary:hover {
     background: #1157b3;
     cursor: pointer;
 }
 
+/* RED BUTTON */
 
+.button-danger {
 
+    background: #e40d0d;
+    border: 1px #e40d0d solid;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-family: "productsans-regular";
+    font-size: 11pt;
+    outline: none;
+    height: 40px;
+    width: 110px;
+    color: #fff;
+}
+
+.button-danger:hover {
+    background: #b31313;
+    cursor: pointer;
+}
+
+/* GREEN BUTTON */
+
+.button-success {
+
+    background: #08bb2f;
+    border: 1px #08bb2f solid;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-family: "productsans-regular";
+    font-size: 11pt;
+    outline: none;
+    height: 40px;
+    width: 110px;
+    color: #fff;
+}
+
+.button-success:hover {
+    background: #0f972d;
+    cursor: pointer;
+}
