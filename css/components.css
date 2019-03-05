@@ -71,3 +71,25 @@ www.codepen.io
     background: #0f972d;
     cursor: pointer;
 }
+
+/* WHITE BUTTON */
+
+.button-white {
+
+    background: #ffffff;
+    border: 1px #ffffff solid;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-family: "productsans-regular";
+    font-size: 11pt;
+    outline: none;
+    height: 40px;
+    width: 110px;
+    color: #1a73e8;
+    box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .30), 0 1px 3px 1px rgba(60, 64, 67, .15);
+}
+
+.button-white:hover {
+    background: #d6d6d6;
+    cursor: pointer;
+}
